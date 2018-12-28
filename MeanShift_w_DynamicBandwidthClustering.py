@@ -11,7 +11,7 @@
 # we're going to add weighting inside of a 
 # fixed radius, penalizing radii that are far
 # away from our cluster centers
-#
+# 
 
 import sys
 import os
