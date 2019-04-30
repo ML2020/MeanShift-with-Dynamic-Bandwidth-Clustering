@@ -26,7 +26,7 @@ style.use('ggplot')
 
 # make up some random sample data points
 # utilize X and y since we might be doing clustering
-# or Support Vectore Machines
+# or Support Vectore Machines 
 #
 X, y = make_blobs(n_samples=25, centers=3, n_features=2)
 
